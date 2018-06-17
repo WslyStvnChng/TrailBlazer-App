@@ -1,6 +1,8 @@
 #TrailBlazer-App
 
 <h3>We’ve created a trail finder app that shows trails based on limited search criteria, whereby users can select a trail that matches their desired area, length, difficulty level, etc.</h3>
+
+Demo: https://wslystvnchng.github.io/TrailBlazer-App/
 <br>
 <h3> In this application we used:
 </h3>
